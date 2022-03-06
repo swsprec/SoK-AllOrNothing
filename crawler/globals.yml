@@ -1,0 +1,26 @@
+user_info: { 
+    email: 'DataExStudy@iseclab.org',
+    first_name: 'Jane',
+    last_name: 'Doe',
+    full_name: 'Jane Doe', 
+    user: 'jdoe99',
+    password: 'p@55w0Rd99',
+    tel: '617 555 1234',
+    company: 'Doe & Data',
+    title: 'Dr.',
+    zip: '12345',
+    street1: '1 Main St.',
+    street2: 'Unit 7',
+    city: 'Boston',
+    state: 'Massachusetts',
+    message: 'https://iseclab.org/',
+    age: "30"
+    }
+_KEYWORDS_EMAIL: ['email', 'e-mail', 'subscribe', 'newsletter']
+_KEYWORDS_SUBMIT: ['submit', 'sign up', 'sign-up', 'signup', 'sign me up', 'subscribe', 'register', 'join']
+_KEYWORDS_SEARCH: ['search']
+_KEYWORDS_SELECT: ['yes', 'ma', 'massachusetts', 'united states', 'usa', '1990']
+_MAX_LINKS: 5
+_PAGE_LOAD_TIME: 15
+_FORM_SUBMIT_SLEEP: 2
+_DEBUG: False
