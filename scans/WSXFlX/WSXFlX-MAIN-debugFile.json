@@ -1,0 +1,746 @@
+{"Time": "10/20/2020-06:42:51:870254", "ID": "WSXFlX-MAIN", "Action": "getting sites for study...", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:906314", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:915012", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 1", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:923124", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:930970", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:938342", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 4", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:944951", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:951297", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:957490", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:963561", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 8", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:969658", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:975709", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:981959", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 11", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:987964", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:993857", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 13", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:53:999595", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:005239", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:010831", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 16", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:016252", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:021546", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:026832", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 19", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:032176", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 20", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:037580", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:042787", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 22", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:047949", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:053182", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:058393", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:063625", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-06:42:54:068920", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-07:42:54:268555", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:359486", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 99015", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:360676", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:360978", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:390692", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:391515", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:391645", "ID": "WSXFlX-MAIN", "Action": "Process 26 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:391734", "ID": "WSXFlX-MAIN", "Action": "Process 26 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:401481", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:402554", "ID": "WSXFlX-MAIN", "Action": "Process 26 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:402705", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:402802", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:413053", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:413916", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:414109", "ID": "WSXFlX-MAIN", "Action": "Process 20 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:414225", "ID": "WSXFlX-MAIN", "Action": "Process 20 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:423490", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 20", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:424309", "ID": "WSXFlX-MAIN", "Action": "Process 20 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:424462", "ID": "WSXFlX-MAIN", "Action": "Process 19 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:424554", "ID": "WSXFlX-MAIN", "Action": "Process 19 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:433602", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 19", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:434654", "ID": "WSXFlX-MAIN", "Action": "Process 19 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:434888", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:435050", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:444240", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:445124", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:445299", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:445454", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:454403", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:455291", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:455444", "ID": "WSXFlX-MAIN", "Action": "Process 13 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:455548", "ID": "WSXFlX-MAIN", "Action": "Process 13 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:464468", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 13", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:465480", "ID": "WSXFlX-MAIN", "Action": "Process 13 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:465669", "ID": "WSXFlX-MAIN", "Action": "Process 12 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:465805", "ID": "WSXFlX-MAIN", "Action": "Process 12 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:474651", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:475504", "ID": "WSXFlX-MAIN", "Action": "Process 12 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:475714", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:475859", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:484869", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:485705", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:485862", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:485961", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:494794", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:495758", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:495965", "ID": "WSXFlX-MAIN", "Action": "Process 8 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:496115", "ID": "WSXFlX-MAIN", "Action": "Process 8 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:505251", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 8", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:506060", "ID": "WSXFlX-MAIN", "Action": "Process 8 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:506192", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:506305", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:514977", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:515825", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:515967", "ID": "WSXFlX-MAIN", "Action": "Process 2 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:516092", "ID": "WSXFlX-MAIN", "Action": "Process 2 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:524959", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:525848", "ID": "WSXFlX-MAIN", "Action": "Process 2 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:525985", "ID": "WSXFlX-MAIN", "Action": "Process 1 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:526074", "ID": "WSXFlX-MAIN", "Action": "Process 1 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:534988", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 1", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:535959", "ID": "WSXFlX-MAIN", "Action": "Process 1 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:536161", "ID": "WSXFlX-MAIN", "Action": "Process 0 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:536272", "ID": "WSXFlX-MAIN", "Action": "Process 0 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:545186", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:546256", "ID": "WSXFlX-MAIN", "Action": "Process 0 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:546450", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-07:44:24:548279", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:14:24:848452", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:937304", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 97520", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:938372", "ID": "WSXFlX-MAIN", "Action": "Process 26 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:938633", "ID": "WSXFlX-MAIN", "Action": "Process 26 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:959157", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:961955", "ID": "WSXFlX-MAIN", "Action": "Process 26 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:964151", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:964543", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:975903", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:978420", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:978730", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:978979", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:990309", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:991552", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:991749", "ID": "WSXFlX-MAIN", "Action": "Process 18 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:54:991895", "ID": "WSXFlX-MAIN", "Action": "Process 18 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:011473", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:012814", "ID": "WSXFlX-MAIN", "Action": "Process 18 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:013167", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:016669", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:038590", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:039834", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:040072", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:040245", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:058201", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:059606", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:059978", "ID": "WSXFlX-MAIN", "Action": "Process 13 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:060283", "ID": "WSXFlX-MAIN", "Action": "Process 13 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:073929", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 13", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:075260", "ID": "WSXFlX-MAIN", "Action": "Process 13 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:075572", "ID": "WSXFlX-MAIN", "Action": "Process 12 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:075771", "ID": "WSXFlX-MAIN", "Action": "Process 12 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:085860", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:087039", "ID": "WSXFlX-MAIN", "Action": "Process 12 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:087373", "ID": "WSXFlX-MAIN", "Action": "Process 11 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:087669", "ID": "WSXFlX-MAIN", "Action": "Process 11 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:097859", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 11", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:099250", "ID": "WSXFlX-MAIN", "Action": "Process 11 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:099617", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:099906", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:110141", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:111416", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:111627", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:111805", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:121642", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:122819", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:123043", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:123200", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:134585", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:135818", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:136069", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:136242", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:149233", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:150415", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:150806", "ID": "WSXFlX-MAIN", "Action": "Process 4 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:151093", "ID": "WSXFlX-MAIN", "Action": "Process 4 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:161027", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 4", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:162394", "ID": "WSXFlX-MAIN", "Action": "Process 4 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:162648", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:162989", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:173381", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:174710", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:175084", "ID": "WSXFlX-MAIN", "Action": "Process 0 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:175282", "ID": "WSXFlX-MAIN", "Action": "Process 0 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:185292", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:186405", "ID": "WSXFlX-MAIN", "Action": "Process 0 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:186612", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-09:15:55:193717", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:45:55:496469", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:606595", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 96025", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:607602", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 1, 2, 3, 5, 6, 8, 9, 11, 12, 14, 17, 18, 20, 21, 22, 23, 24, 25, 26] and x is: 15", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:608052", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 11, 12, 14, 17, 18, 20, 21, 22, 23, 24, 25] and x is: 9", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:608235", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 11, 12, 14, 17, 18, 20, 21, 22, 23, 24, 25] and x is: 19", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:608388", "ID": "WSXFlX-MAIN", "Action": "Process 25 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:608504", "ID": "WSXFlX-MAIN", "Action": "Process 25 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:619398", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:623048", "ID": "WSXFlX-MAIN", "Action": "Process 25 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:626453", "ID": "WSXFlX-MAIN", "Action": "Process 24 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:626815", "ID": "WSXFlX-MAIN", "Action": "Process 24 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:646708", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:669058", "ID": "WSXFlX-MAIN", "Action": "Process 24 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:669405", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:672313", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:682353", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:683623", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:683982", "ID": "WSXFlX-MAIN", "Action": "Process 22 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:684305", "ID": "WSXFlX-MAIN", "Action": "Process 22 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:698608", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 22", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:700391", "ID": "WSXFlX-MAIN", "Action": "Process 22 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:701977", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:702375", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:720149", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:731199", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:736645", "ID": "WSXFlX-MAIN", "Action": "Process 20 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:737004", "ID": "WSXFlX-MAIN", "Action": "Process 20 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:747726", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 20", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:761243", "ID": "WSXFlX-MAIN", "Action": "Process 20 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:761461", "ID": "WSXFlX-MAIN", "Action": "Process 18 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:761617", "ID": "WSXFlX-MAIN", "Action": "Process 18 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:771225", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:772260", "ID": "WSXFlX-MAIN", "Action": "Process 18 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:772486", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:772655", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:794246", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:799480", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:799728", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:799891", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:826511", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:827563", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:827775", "ID": "WSXFlX-MAIN", "Action": "Process 12 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:827943", "ID": "WSXFlX-MAIN", "Action": "Process 12 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:847243", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:852552", "ID": "WSXFlX-MAIN", "Action": "Process 12 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:852824", "ID": "WSXFlX-MAIN", "Action": "Process 11 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:853138", "ID": "WSXFlX-MAIN", "Action": "Process 11 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:894070", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 11", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:895269", "ID": "WSXFlX-MAIN", "Action": "Process 11 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:895586", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:895867", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:905483", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:906514", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:906696", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:912308", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:938425", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:949088", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:949455", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:949684", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:959489", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:975203", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:975579", "ID": "WSXFlX-MAIN", "Action": "Process 2 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:25:975834", "ID": "WSXFlX-MAIN", "Action": "Process 2 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:004898", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:006092", "ID": "WSXFlX-MAIN", "Action": "Process 2 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:007481", "ID": "WSXFlX-MAIN", "Action": "Process 0 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:007991", "ID": "WSXFlX-MAIN", "Action": "Process 0 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:027955", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:030543", "ID": "WSXFlX-MAIN", "Action": "Process 0 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:031766", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-10:47:26:047440", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:17:26:344496", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:432476", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 94669", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:433500", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 9, 10, 11, 13, 14, 15, 18, 20, 21, 22, 23, 24, 25, 26, 27] and x is: 17", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:433886", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 9, 11, 13, 14, 15, 18, 20, 21, 22, 23, 24, 25, 26, 27] and x is: 12", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:434300", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 6, 9, 13, 14, 15, 18, 20, 21, 22, 23, 24, 25, 26, 27] and x is: 1", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:434478", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:434634", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:454148", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:455232", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:463901", "ID": "WSXFlX-MAIN", "Action": "Process 26 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:464292", "ID": "WSXFlX-MAIN", "Action": "Process 26 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:486421", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:489879", "ID": "WSXFlX-MAIN", "Action": "Process 26 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:501213", "ID": "WSXFlX-MAIN", "Action": "Process 25 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:501498", "ID": "WSXFlX-MAIN", "Action": "Process 25 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:512537", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:513782", "ID": "WSXFlX-MAIN", "Action": "Process 25 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:514127", "ID": "WSXFlX-MAIN", "Action": "Process 24 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:514413", "ID": "WSXFlX-MAIN", "Action": "Process 24 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:533647", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:535379", "ID": "WSXFlX-MAIN", "Action": "Process 24 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:535815", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:536111", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:546381", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:547566", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:547811", "ID": "WSXFlX-MAIN", "Action": "Process 22 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:547977", "ID": "WSXFlX-MAIN", "Action": "Process 22 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:566379", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 22", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:568001", "ID": "WSXFlX-MAIN", "Action": "Process 22 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:568261", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:568494", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:578793", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:579984", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:580205", "ID": "WSXFlX-MAIN", "Action": "Process 20 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:583822", "ID": "WSXFlX-MAIN", "Action": "Process 20 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:611433", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 20", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:612892", "ID": "WSXFlX-MAIN", "Action": "Process 20 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:613312", "ID": "WSXFlX-MAIN", "Action": "Process 18 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:613803", "ID": "WSXFlX-MAIN", "Action": "Process 18 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:624923", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:626089", "ID": "WSXFlX-MAIN", "Action": "Process 18 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:626335", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:626516", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:637634", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:642545", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:642911", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:643195", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:653923", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:655203", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:655576", "ID": "WSXFlX-MAIN", "Action": "Process 13 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:655929", "ID": "WSXFlX-MAIN", "Action": "Process 13 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:666576", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 13", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:668510", "ID": "WSXFlX-MAIN", "Action": "Process 13 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:668898", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:669207", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:679861", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:681119", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:681428", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:681583", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:692661", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:693754", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:693979", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:694173", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:705532", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:706803", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:707024", "ID": "WSXFlX-MAIN", "Action": "Process 2 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:707183", "ID": "WSXFlX-MAIN", "Action": "Process 2 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:718580", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:720046", "ID": "WSXFlX-MAIN", "Action": "Process 2 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:720507", "ID": "WSXFlX-MAIN", "Action": "Process 0 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:720815", "ID": "WSXFlX-MAIN", "Action": "Process 0 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:734897", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:736440", "ID": "WSXFlX-MAIN", "Action": "Process 0 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:736841", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:18:56:749396", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:48:56:849263", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = True", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:940475", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 94177", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:941471", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 7, 9, 10, 11, 14, 15, 16, 17, 18, 21, 22, 23, 24, 25, 26, 27] and x is: 1", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:941898", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 21, 22, 23, 24, 25, 27] and x is: 14", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:942171", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 5, 6, 7, 9, 10, 11, 15, 16, 17, 18, 21, 22, 23, 24, 25, 27] and x is: 13", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:942540", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [3, 5, 7, 9, 10, 11, 15, 16, 17, 18, 21, 22, 23, 24, 25, 27] and x is: 0", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:942771", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:942922", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:956466", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:957610", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:957837", "ID": "WSXFlX-MAIN", "Action": "Process 25 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:957992", "ID": "WSXFlX-MAIN", "Action": "Process 25 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:981716", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:982987", "ID": "WSXFlX-MAIN", "Action": "Process 25 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:983298", "ID": "WSXFlX-MAIN", "Action": "Process 24 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:26:983512", "ID": "WSXFlX-MAIN", "Action": "Process 24 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:001939", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:003111", "ID": "WSXFlX-MAIN", "Action": "Process 24 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:003342", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:003510", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:019234", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:020384", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:023663", "ID": "WSXFlX-MAIN", "Action": "Process 22 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:024010", "ID": "WSXFlX-MAIN", "Action": "Process 22 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:041178", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 22", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:042350", "ID": "WSXFlX-MAIN", "Action": "Process 22 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:042780", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:043080", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:053741", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:054902", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:055259", "ID": "WSXFlX-MAIN", "Action": "Process 18 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:055534", "ID": "WSXFlX-MAIN", "Action": "Process 18 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:069283", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:070671", "ID": "WSXFlX-MAIN", "Action": "Process 18 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:071087", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:071417", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:088018", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:089514", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:089882", "ID": "WSXFlX-MAIN", "Action": "Process 16 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:090172", "ID": "WSXFlX-MAIN", "Action": "Process 16 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:101653", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 16", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:102850", "ID": "WSXFlX-MAIN", "Action": "Process 16 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:103225", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:103520", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:114425", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:115845", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:121622", "ID": "WSXFlX-MAIN", "Action": "Process 11 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:122142", "ID": "WSXFlX-MAIN", "Action": "Process 11 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:137491", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 11", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:138769", "ID": "WSXFlX-MAIN", "Action": "Process 11 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:139138", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:139423", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:150595", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:151888", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:152229", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:152536", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:167955", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:169426", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:169823", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:174981", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:185565", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:200381", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:200768", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:201058", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:211323", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:212687", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:213061", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:213334", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:245731", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:254767", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-12:50:27:645864", "ID": "WSXFlX-MAIN", "Action": "Firefox & Geckodriver processes killed - number killed was 149", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-13:50:27:952681", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:041204", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 93158", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:042377", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [1, 2, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20, 21, 22, 23, 24, 25, 26, 27] and x is: 13", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:042702", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [1, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20, 21, 22, 24, 25, 26, 27] and x is: 2", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:042956", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [1, 3, 4, 5, 6, 8, 9, 10, 11, 12, 14, 15, 16, 17, 18, 20, 21, 22, 25, 26, 27] and x is: 19", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:043305", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:043430", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:055412", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:056260", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:056452", "ID": "WSXFlX-MAIN", "Action": "Process 26 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:056599", "ID": "WSXFlX-MAIN", "Action": "Process 26 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:065032", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:065867", "ID": "WSXFlX-MAIN", "Action": "Process 26 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:066052", "ID": "WSXFlX-MAIN", "Action": "Process 25 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:066187", "ID": "WSXFlX-MAIN", "Action": "Process 25 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:075108", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:076210", "ID": "WSXFlX-MAIN", "Action": "Process 25 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:076456", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:076626", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:085778", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:086808", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:087007", "ID": "WSXFlX-MAIN", "Action": "Process 20 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:087154", "ID": "WSXFlX-MAIN", "Action": "Process 20 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:096223", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 20", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:097167", "ID": "WSXFlX-MAIN", "Action": "Process 20 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:097350", "ID": "WSXFlX-MAIN", "Action": "Process 18 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:097481", "ID": "WSXFlX-MAIN", "Action": "Process 18 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:106646", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:107613", "ID": "WSXFlX-MAIN", "Action": "Process 18 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:107809", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:107940", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:116964", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:117970", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:118156", "ID": "WSXFlX-MAIN", "Action": "Process 12 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:118292", "ID": "WSXFlX-MAIN", "Action": "Process 12 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:127532", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:128562", "ID": "WSXFlX-MAIN", "Action": "Process 12 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:128771", "ID": "WSXFlX-MAIN", "Action": "Process 11 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:128973", "ID": "WSXFlX-MAIN", "Action": "Process 11 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:138261", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 11", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:139252", "ID": "WSXFlX-MAIN", "Action": "Process 11 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:139434", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:139568", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:148490", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:149454", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:149625", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:149763", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:158596", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:159599", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:159801", "ID": "WSXFlX-MAIN", "Action": "Process 8 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:159942", "ID": "WSXFlX-MAIN", "Action": "Process 8 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:169251", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 8", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:170253", "ID": "WSXFlX-MAIN", "Action": "Process 8 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:170439", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:170577", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:179813", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:180829", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:181026", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:181165", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:190268", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:191326", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:191541", "ID": "WSXFlX-MAIN", "Action": "Process 4 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:191713", "ID": "WSXFlX-MAIN", "Action": "Process 4 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:200882", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 4", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:201713", "ID": "WSXFlX-MAIN", "Action": "Process 4 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:201844", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:201942", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:210955", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:211760", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:211895", "ID": "WSXFlX-MAIN", "Action": "Process 1 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:211996", "ID": "WSXFlX-MAIN", "Action": "Process 1 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:221270", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 1", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:222143", "ID": "WSXFlX-MAIN", "Action": "Process 1 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:222277", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-13:51:58:222821", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:21:58:520595", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:608482", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 91593", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:609643", "ID": "WSXFlX-MAIN", "Action": "Process 24 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:609889", "ID": "WSXFlX-MAIN", "Action": "Process 24 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:627643", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:629248", "ID": "WSXFlX-MAIN", "Action": "Process 24 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:629513", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:629722", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:644684", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:645927", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:646283", "ID": "WSXFlX-MAIN", "Action": "Process 22 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:646463", "ID": "WSXFlX-MAIN", "Action": "Process 22 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:656854", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 22", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:658203", "ID": "WSXFlX-MAIN", "Action": "Process 22 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:658538", "ID": "WSXFlX-MAIN", "Action": "Process 21 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:658841", "ID": "WSXFlX-MAIN", "Action": "Process 21 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:669619", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 21", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:670827", "ID": "WSXFlX-MAIN", "Action": "Process 21 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:671322", "ID": "WSXFlX-MAIN", "Action": "Process 16 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:671661", "ID": "WSXFlX-MAIN", "Action": "Process 16 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:682152", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 16", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:683484", "ID": "WSXFlX-MAIN", "Action": "Process 16 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:683853", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:684143", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:695570", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:698420", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:698688", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:698855", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:719877", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:721694", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:722085", "ID": "WSXFlX-MAIN", "Action": "Process 13 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:722365", "ID": "WSXFlX-MAIN", "Action": "Process 13 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:741769", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 13", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:757088", "ID": "WSXFlX-MAIN", "Action": "Process 13 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:757365", "ID": "WSXFlX-MAIN", "Action": "Process 12 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:757545", "ID": "WSXFlX-MAIN", "Action": "Process 12 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:767913", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:769056", "ID": "WSXFlX-MAIN", "Action": "Process 12 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:769301", "ID": "WSXFlX-MAIN", "Action": "Process 11 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:769488", "ID": "WSXFlX-MAIN", "Action": "Process 11 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:779669", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 11", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:780913", "ID": "WSXFlX-MAIN", "Action": "Process 11 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:781164", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:781341", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:795711", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:796941", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:797185", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:797364", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:807718", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:809019", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:809275", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:809466", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:819713", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:820646", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:820850", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:821003", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:831024", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:832196", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:832480", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:832677", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:843058", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:847779", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:848075", "ID": "WSXFlX-MAIN", "Action": "Process 4 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:848264", "ID": "WSXFlX-MAIN", "Action": "Process 4 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:858836", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 4", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:863605", "ID": "WSXFlX-MAIN", "Action": "Process 4 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:863887", "ID": "WSXFlX-MAIN", "Action": "Process 2 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:864068", "ID": "WSXFlX-MAIN", "Action": "Process 2 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:875009", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:876243", "ID": "WSXFlX-MAIN", "Action": "Process 2 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:876508", "ID": "WSXFlX-MAIN", "Action": "Process 1 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:876658", "ID": "WSXFlX-MAIN", "Action": "Process 1 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:886950", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 1", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:888136", "ID": "WSXFlX-MAIN", "Action": "Process 1 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:891930", "ID": "WSXFlX-MAIN", "Action": "Process 0 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:892226", "ID": "WSXFlX-MAIN", "Action": "Process 0 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:902901", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:904098", "ID": "WSXFlX-MAIN", "Action": "Process 0 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:904385", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-15:23:28:915233", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:53:29:212473", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:312515", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 90078", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:313553", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 16, 17, 19, 20, 22, 23, 24, 25, 27] and x is: 21", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:314330", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:314552", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:326148", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:327484", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:327707", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:327859", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:342871", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:344246", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:344656", "ID": "WSXFlX-MAIN", "Action": "Process 19 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:344843", "ID": "WSXFlX-MAIN", "Action": "Process 19 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:355577", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 19", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:357024", "ID": "WSXFlX-MAIN", "Action": "Process 19 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:357278", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:357627", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:368478", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:372429", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:372677", "ID": "WSXFlX-MAIN", "Action": "Process 16 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:372838", "ID": "WSXFlX-MAIN", "Action": "Process 16 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:384935", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 16", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:386156", "ID": "WSXFlX-MAIN", "Action": "Process 16 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:386519", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:386761", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:398227", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:399691", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:400092", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:400396", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:411852", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:413344", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:413745", "ID": "WSXFlX-MAIN", "Action": "Process 12 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:414065", "ID": "WSXFlX-MAIN", "Action": "Process 12 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:425408", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 12", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:426624", "ID": "WSXFlX-MAIN", "Action": "Process 12 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:426855", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:427011", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:437725", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:439004", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:439236", "ID": "WSXFlX-MAIN", "Action": "Process 8 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:439411", "ID": "WSXFlX-MAIN", "Action": "Process 8 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:449869", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 8", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:451097", "ID": "WSXFlX-MAIN", "Action": "Process 8 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:451337", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:451512", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:462970", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:464342", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:464624", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:464792", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:475294", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:476681", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:477045", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:477320", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:488289", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:489630", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:489854", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:490041", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:500749", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:501982", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:502372", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-16:54:59:503801", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:24:59:800508", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = False", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:940629", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 88734", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:941702", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27] and x is: 16", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:942236", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 13, 14, 15, 17, 19, 20, 22, 23, 24, 25, 26, 27] and x is: 11", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:942672", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 12, 14, 15, 17, 19, 20, 22, 23, 24, 25, 26, 27] and x is: 21", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:943168", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [1, 2, 5, 6, 7, 8, 9, 14, 15, 17, 19, 22, 23, 24, 25, 26, 27] and x is: 21", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:943472", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:943750", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:961104", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:962285", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:962705", "ID": "WSXFlX-MAIN", "Action": "Process 26 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:963017", "ID": "WSXFlX-MAIN", "Action": "Process 26 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:977166", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:978435", "ID": "WSXFlX-MAIN", "Action": "Process 26 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:978861", "ID": "WSXFlX-MAIN", "Action": "Process 25 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:979061", "ID": "WSXFlX-MAIN", "Action": "Process 25 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:991747", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:993988", "ID": "WSXFlX-MAIN", "Action": "Process 25 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:994399", "ID": "WSXFlX-MAIN", "Action": "Process 24 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:29:994701", "ID": "WSXFlX-MAIN", "Action": "Process 24 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:008858", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:010968", "ID": "WSXFlX-MAIN", "Action": "Process 24 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:011437", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:011689", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:023085", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:024250", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:024525", "ID": "WSXFlX-MAIN", "Action": "Process 22 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:024720", "ID": "WSXFlX-MAIN", "Action": "Process 22 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:037032", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 22", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:038647", "ID": "WSXFlX-MAIN", "Action": "Process 22 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:039054", "ID": "WSXFlX-MAIN", "Action": "Process 19 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:039368", "ID": "WSXFlX-MAIN", "Action": "Process 19 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:052014", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 19", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:053411", "ID": "WSXFlX-MAIN", "Action": "Process 19 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:054052", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:054298", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:065929", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:067322", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:067607", "ID": "WSXFlX-MAIN", "Action": "Process 15 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:067798", "ID": "WSXFlX-MAIN", "Action": "Process 15 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:079092", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 15", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:082911", "ID": "WSXFlX-MAIN", "Action": "Process 15 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:083251", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:083475", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:094381", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:095650", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:095913", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:096104", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:106916", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:108087", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:108379", "ID": "WSXFlX-MAIN", "Action": "Process 8 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:108593", "ID": "WSXFlX-MAIN", "Action": "Process 8 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:119261", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 8", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:120582", "ID": "WSXFlX-MAIN", "Action": "Process 8 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:121000", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:121278", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:131982", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:133685", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:134092", "ID": "WSXFlX-MAIN", "Action": "Process 6 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:134814", "ID": "WSXFlX-MAIN", "Action": "Process 6 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:145997", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 6", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:147375", "ID": "WSXFlX-MAIN", "Action": "Process 6 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:147831", "ID": "WSXFlX-MAIN", "Action": "Process 5 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:148988", "ID": "WSXFlX-MAIN", "Action": "Process 5 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:160122", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 5", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:161690", "ID": "WSXFlX-MAIN", "Action": "Process 5 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:162712", "ID": "WSXFlX-MAIN", "Action": "Process 2 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:163093", "ID": "WSXFlX-MAIN", "Action": "Process 2 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:174503", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:175815", "ID": "WSXFlX-MAIN", "Action": "Process 2 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:176241", "ID": "WSXFlX-MAIN", "Action": "Process 1 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:176566", "ID": "WSXFlX-MAIN", "Action": "Process 1 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:187784", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 1", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:188986", "ID": "WSXFlX-MAIN", "Action": "Process 1 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:189394", "ID": "WSXFlX-MAIN", "Action": "Processes starting to resume...", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:26:30:221041", "ID": "WSXFlX-MAIN", "Action": "Processes resumed", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:56:30:322095", "ID": "WSXFlX-MAIN", "Action": "Check In proceedure started: RESET = True", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:413750", "ID": "WSXFlX-MAIN", "Action": "Sites left to scan: 88267", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:414770", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 4, 5, 6, 7, 8, 9, 10, 12, 13, 14, 15, 17, 18, 19, 20, 23, 24, 25, 26, 27] and x is: 11", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:415342", "ID": "WSXFlX-MAIN", "Action": "ValueError error when removing item from tmpList in checkin(), list is: [0, 2, 3, 6, 7, 8, 9, 10, 12, 14, 17, 18, 19, 20, 23, 24, 25, 26, 27] and x is: 21", "Level": 0, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:415724", "ID": "WSXFlX-MAIN", "Action": "Process 27 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:415912", "ID": "WSXFlX-MAIN", "Action": "Process 27 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:427818", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 27", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:432345", "ID": "WSXFlX-MAIN", "Action": "Process 27 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:432639", "ID": "WSXFlX-MAIN", "Action": "Process 26 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:432887", "ID": "WSXFlX-MAIN", "Action": "Process 26 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:447332", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 26", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:459993", "ID": "WSXFlX-MAIN", "Action": "Process 26 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:460828", "ID": "WSXFlX-MAIN", "Action": "Process 25 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:461194", "ID": "WSXFlX-MAIN", "Action": "Process 25 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:476776", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 25", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:477722", "ID": "WSXFlX-MAIN", "Action": "Process 25 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:477965", "ID": "WSXFlX-MAIN", "Action": "Process 24 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:478141", "ID": "WSXFlX-MAIN", "Action": "Process 24 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:497611", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 24", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:501596", "ID": "WSXFlX-MAIN", "Action": "Process 24 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:501864", "ID": "WSXFlX-MAIN", "Action": "Process 23 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:502074", "ID": "WSXFlX-MAIN", "Action": "Process 23 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:515885", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 23", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:517158", "ID": "WSXFlX-MAIN", "Action": "Process 23 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:517412", "ID": "WSXFlX-MAIN", "Action": "Process 20 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:517572", "ID": "WSXFlX-MAIN", "Action": "Process 20 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:533854", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 20", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:535542", "ID": "WSXFlX-MAIN", "Action": "Process 20 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:535985", "ID": "WSXFlX-MAIN", "Action": "Process 19 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:536193", "ID": "WSXFlX-MAIN", "Action": "Process 19 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:549806", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 19", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:551204", "ID": "WSXFlX-MAIN", "Action": "Process 19 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:551608", "ID": "WSXFlX-MAIN", "Action": "Process 18 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:551960", "ID": "WSXFlX-MAIN", "Action": "Process 18 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:586074", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 18", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:587461", "ID": "WSXFlX-MAIN", "Action": "Process 18 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:587889", "ID": "WSXFlX-MAIN", "Action": "Process 17 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:588223", "ID": "WSXFlX-MAIN", "Action": "Process 17 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:603095", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 17", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:604573", "ID": "WSXFlX-MAIN", "Action": "Process 17 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:605007", "ID": "WSXFlX-MAIN", "Action": "Process 14 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:605303", "ID": "WSXFlX-MAIN", "Action": "Process 14 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:617524", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 14", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:618697", "ID": "WSXFlX-MAIN", "Action": "Process 14 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:618956", "ID": "WSXFlX-MAIN", "Action": "Process 10 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:619132", "ID": "WSXFlX-MAIN", "Action": "Process 10 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:631662", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 10", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:632922", "ID": "WSXFlX-MAIN", "Action": "Process 10 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:633179", "ID": "WSXFlX-MAIN", "Action": "Process 9 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:633364", "ID": "WSXFlX-MAIN", "Action": "Process 9 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:645637", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 9", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:647032", "ID": "WSXFlX-MAIN", "Action": "Process 9 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:647288", "ID": "WSXFlX-MAIN", "Action": "Process 8 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:647651", "ID": "WSXFlX-MAIN", "Action": "Process 8 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:659111", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 8", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:660558", "ID": "WSXFlX-MAIN", "Action": "Process 8 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:660840", "ID": "WSXFlX-MAIN", "Action": "Process 7 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:661038", "ID": "WSXFlX-MAIN", "Action": "Process 7 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:676634", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 7", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:677976", "ID": "WSXFlX-MAIN", "Action": "Process 7 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:678251", "ID": "WSXFlX-MAIN", "Action": "Process 3 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:678435", "ID": "WSXFlX-MAIN", "Action": "Process 3 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:701948", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 3", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:703233", "ID": "WSXFlX-MAIN", "Action": "Process 3 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:703496", "ID": "WSXFlX-MAIN", "Action": "Process 2 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:703685", "ID": "WSXFlX-MAIN", "Action": "Process 2 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:726659", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 2", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:727775", "ID": "WSXFlX-MAIN", "Action": "Process 2 RESTARTED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:728018", "ID": "WSXFlX-MAIN", "Action": "Process 0 failed to check in", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:728176", "ID": "WSXFlX-MAIN", "Action": "Process 0 KILLED", "Level": 1, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:750455", "ID": "WSXFlX-MAIN", "Action": "Starting process number: 0", "Level": 2, "end": "\n"}
+{"Time": "10/20/2020-18:58:00:752053", "ID": "WSXFlX-MAIN", "Action": "Process 0 RESTARTED", "Level": 1, "end": "\n"}
