@@ -1,0 +1,43 @@
+#content {
+    padding-top: 80px;
+}
+
+header.navbar-inverse {
+    background-color: #c20000;
+    border-color: #f8f8f8;
+}
+
+header.navbar-inverse .navbar-header > a {
+    color: #f8f8f8;
+    font-weight: bold;
+}
+
+header.navbar-inverse .navbar-nav > li > a {
+    color: #f8f8f8;
+}
+
+footer {
+    background-color: #eee;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 1em 0;
+}
+
+footer .row {
+    margin: 2em 0;
+}
+
+footer .divider {
+    border-right: 1px solid #ccc;
+    height: 100%;
+}
+
+footer a.thumbnail {
+    background-color: inherit;
+    border: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: bold;
+    text-transform: uppercase;
+}

@@ -1,0 +1,3 @@
+[submodule "parsing/tracker-radar"]
+	path = parsing/tracker-radar
+	url = https://github.com/duckduckgo/tracker-radar.git
